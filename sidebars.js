@@ -33,3 +33,13 @@ const sidebars = {
 };
 
 export default sidebars;
+
+
+module.exports = {
+  tutorialSidebar: [
+    'intro', // 기존 문서
+    'company', // 새로 추가한 문서
+  ],
+};
+
+
