@@ -4,7 +4,7 @@
         <title>My Site Blog</title>
         <link>https://whkim940516.github.io/test/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Wed, 21 May 2025 07:55:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 May 2025 11:46:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[KWH 블로그 첫 글]]></title>
             <link>https://whkim940516.github.io/test/blog/hello-kwh</link>
             <guid>https://whkim940516.github.io/test/blog/hello-kwh</guid>
-            <pubDate>Wed, 21 May 2025 07:55:33 GMT</pubDate>
+            <pubDate>Wed, 21 May 2025 11:46:39 GMT</pubDate>
             <description><![CDATA[Docusaurus 블로그를 시작합니다! 🎉]]></description>
             <content:encoded><![CDATA[<p>Docusaurus 블로그를 시작합니다! 🎉</p>]]></content:encoded>
             <category>intro</category>

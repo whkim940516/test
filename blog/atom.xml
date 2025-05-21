@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://whkim940516.github.io/test/blog</id>
     <title>My Site Blog</title>
-    <updated>2025-05-21T07:55:33.000Z</updated>
+    <updated>2025-05-21T11:46:39.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://whkim940516.github.io/test/blog"/>
     <subtitle>My Site Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[KWH 블로그 첫 글]]></title>
         <id>https://whkim940516.github.io/test/blog/hello-kwh</id>
         <link href="https://whkim940516.github.io/test/blog/hello-kwh"/>
-        <updated>2025-05-21T07:55:33.000Z</updated>
+        <updated>2025-05-21T11:46:39.000Z</updated>
         <summary type="html"><![CDATA[Docusaurus 블로그를 시작합니다! 🎉]]></summary>
         <content type="html"><![CDATA[<p>Docusaurus 블로그를 시작합니다! 🎉</p>]]></content>
         <category label="intro" term="intro"/>
